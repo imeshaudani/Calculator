@@ -1,0 +1,48 @@
+button {
+    width: 80;
+    height: 80;
+    border: solid;
+    font-size: 25;
+    border-radius: 100%;
+    background-color:black;  
+    color:rgba(210, 196, 196, 0.849);
+  }
+  
+  .textinput {
+    width: 335;
+    height: 50;
+    font-size: 25;
+    color: rgb(0, 7, 10);
+    border: solid;
+    background-color: #acb5af;
+  }
+  
+  .main {
+    position: absolute;
+    border: solid 4px;
+    background: rgb(0, 0, 0);
+  }
+  
+  .org{
+    color:black;
+    background-color: rgb(255, 132, 0);
+  }
+  
+  body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:darkslategray;
+  }
+  
+  h1{
+    color:rgba(245, 245, 245, 0.822);
+   display: flex;
+   align-content: center;
+   justify-content: center;
+  }
+
+  .imp{
+    background-color: #acb5af;
+    color: black;
+  }
